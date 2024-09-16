@@ -77,3 +77,8 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+### Yup
+ 1.`Yup, a schema builder allows you to create schemas for validating and parsing data at runtime`
+ 2.`You can define the structure of your data, including the types of each field (e.g., string, number, array).`
+ 3.`Shcema define expected shape/structure and constraints of data and Yup will ensure that the data conforms to these rules.`
